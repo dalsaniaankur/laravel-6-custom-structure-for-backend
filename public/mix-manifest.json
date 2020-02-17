@@ -1,0 +1,6 @@
+{
+    "/backend/js/all.js": "/backend/js/all.js",
+    "/backend/js/only_backend.js": "/backend/js/only_backend.js",
+    "/backend/css/all.css": "/backend/css/all.css",
+    "/backend/css/only_backend.css": "/backend/css/only_backend.css"
+}
